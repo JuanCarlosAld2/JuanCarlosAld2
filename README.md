@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hola! Mi nombre es Juan Carlos
 
-<!--
-**JuanCarlosAld2/JuanCarlosAld2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ¿Quién soy?
+Soy un **Full Stack Developer** con formación en **Henry Bootcamp**, especializado en tecnologías como **JavaScript**, **React.js**, **Node.js**, **Express.js**, **PostgreSQL** y **Sequelize**. También tengo experiencia en **HTML** y **CSS**.
 
-Here are some ideas to get you started:
+## ¿Qué hago?
+Mi principal objetivo es innovar y crear aplicaciones que puedan marcar la diferencia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ¿A dónde me dirijo?
+Me dirijo hacia el desarrollo de proyectos innovadores y desafiantes que puedan impactar positivamente en el mundo.
+
+## ¿Qué tecnología uso?
+Gracias al bootcamp de **Henry**, domino tecnologías como **JavaScript**, **React.js**, **Node.js**, **Express.js**, **PostgreSQL** y **Sequelize**, así como **HTML** y **CSS**.
+
+## ¡No dudes en contactarme!
+Estoy listo para colaborar en proyectos que puedan cambiar el mundo.
